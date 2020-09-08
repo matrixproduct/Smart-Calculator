@@ -8,7 +8,7 @@ Each operator + or - can be entered several times following each other.
 
 Examples:     ---4 ++ 5 -8 ---2
 
-              2\*(-4---5)\*3+9/4
+              2*(-4---5)*3+9/4
               
 It also allows one to use variables, whose names should consist only from letters.
 
