@@ -1,7 +1,7 @@
 # Smart Calculator
  
-The calculator performs addition, subtraction, multiplication and integer division of an arbitrary number of integers. 
-It supports both unary and binary minus and plus operators.
+The calculator performs addition, subtraction, multiplication and integer division of an arbitrary number of integers.\n
+It supports both unary and binary minus and plus operators.\n
 Each operator + or - can be entered several times following each other.
 Examples:     ---4 ++ 5 -8 ---2
               2*(-4---5)\*3+9/4
